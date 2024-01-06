@@ -17,7 +17,6 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 src="https://img.shields.io/twitter/follow/_giocoliere_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/g1ocoliere" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/g1ocoliere?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ffbb00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&redirect=true)
 ### Skills
 
 <p align="left">
@@ -34,14 +33,15 @@ src="https://img.shields.io/twitch/status/g1ocoliere?logo=twitchsx&style=for-the
 <a href="http://www.github.com/giocoliere"><img src="https://github-readme-stats.vercel.app/api?username=giocoliere&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="giocoliere's GitHub stats" /></a>
 
 <a href="https://github.com/giocoliere" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoliere&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffbb00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&redirect=true)
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/creepercraft"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/creepercraft"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/creepercraft"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+</li>
 
 </ul>
                       </ul>
