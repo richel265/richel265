@@ -17,6 +17,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 src="https://img.shields.io/twitter/follow/_giocoliere_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/g1ocoliere" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/g1ocoliere?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ffbb00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&redirect=true)
 ### Skills
 
 <p align="left">
