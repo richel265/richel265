@@ -9,7 +9,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [Linktree](http://linktr.ee/giocoliere) or [Bento](http://bento.me/giocoliere)
 * ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me)
-* 🚀  I'm currently working on [Creepercraft](http://www.creepercraft.eu.org)
+* 🚀  I'm currently working on [Creepercraft](http://status.creepercraft.eu.org)
 * 🧠  I'm learning all the different Programming Languages i can, and also Languages themself
 * ⚡  I'm in your walls...dont mind 😜
 
