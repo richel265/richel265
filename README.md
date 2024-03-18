@@ -184,6 +184,3 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 </li>
 
 </ul>
-                    
-  ### Playing 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=c7c7c7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&redirect=true)
