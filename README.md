@@ -27,11 +27,8 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 <summary>:eyes: Stats</summary>
 
 [![Gioco's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=giocoliere&rank_icon=github&theme=dracula#gh-dark-mode-only)](https://github.com/giocoliere)
-[![Gioco's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=giocoliere\&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/giocoliere) 
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=giocoliere&layout=compact&theme=dracula#gh-dark-mode-only)](https://github.com/giocoliere)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=giocoliere&layout=compact&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/giocoliere)
 [![Fav-Dark](https://github-readme-stats.vercel.app/api/pin/?username=giocoliere&repo=giocoliere.github.io&theme=dracula#gh-dark-mode-only)](https://github.com/giocoliere/giocoliere.github.io)
-[![Fav-Light](https://github-readme-stats.vercel.app/api/pin/?username=giocoliere&repo=giocoliere.github.io&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/giocoliere/giocoliere.github.io)
 
 </details>       
  <details>
