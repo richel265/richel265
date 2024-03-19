@@ -5,7 +5,6 @@ Web Developer, Designer, Animator and Ceo of the Creepercraft Inc. project
 --------------------------------------------------------------------------
 
 Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privacy), I'm a 18 years old guy with coding and anime passion...i'm studying code by myself for fun and cuz i enjoy it....4 years ago i started a project called Creepercraft Inc. and im still working on it all by myself
-
 *   🌍  I'm based in Italy
 *   🖥️  See my portfolio at [Bento](http://bento.me/giocoliere) or [Lintree](http://linktr.ee/giocoliere)
 *   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me)
@@ -32,8 +31,9 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 [![Fav2-Dark](https://github-readme-stats.vercel.app/api/pin/?username=giocoliere&repo=giocoliere&theme=dracula#gh-dark-mode-only)](https://github.com/giocoliere/giocoliere)
 </details>       
  <details>
-<summary>:headphones: Music Playing</summary>
-  
+<summary>:headphones: Activities</summary>
+   
+  [![Discord Presence](https://lanyard.cnrad.dev/api/842087107908206654)](https://discord.com/users/842087107908206654)
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=c7c7c7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&redirect=true)
 </details> 
    
