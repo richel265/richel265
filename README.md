@@ -7,7 +7,7 @@ Web Developer, Designer, Animator and Ceo of the Creepercraft Inc. project
 Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privacy), I'm a 18 years old guy with coding and anime passion...i'm studying code by myself for fun and cuz i enjoy it....4 years ago i started a project called Creepercraft Inc. and im still working on it all by myself
 *   🌍  I'm based in Europe, exactly in Italy
 *   🖥️  See my portfolio at [Bento](http://bento.me/giocoliere) or [Lintree](http://linktr.ee/giocoliere)
-*   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me)
+*   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe 🤫)
 *   🚀  I'm currently working on [Creepercraft](http://status.creepercraft.eu.org)
 *   🧠  I'm learning all i can: Programming Languages and also Languages themself
 *   ⚡  I'm in your walls...dont mind 😜
