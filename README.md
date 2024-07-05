@@ -34,7 +34,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 <summary>:headphones: Activities (click me)</summary>
    
   [![Discord Presence](https://lanyard.cnrad.dev/api/842087107908206654)](https://discord.com/users/842087107908206654)
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=c7c7c7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=c7c7c7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&redirect=true)
 </details> 
    
  ### Socials               
