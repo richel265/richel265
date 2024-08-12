@@ -8,7 +8,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 *   🌍  I'm based in Europe, exactly in Italy
 *   🖥️  See my portfolio at [Bento](http://bento.me/giocoliere) or [Lintree](http://linktr.ee/giocoliere)
 *   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe 🤫)
-*   🚀  I'm currently working on [Creepercraft](http://status.creepercraft.eu.org), [CreeperLAB](http://creeperlab.carrd.co/) and all these subprojects
+*   🚀  I'm currently working on [Creepercraft](http://creepercraft.eu.org), [CreeperLAB](http://creeperlab.ob.ong/) and all these subprojects
 *   🧠  I'm learning all i can: Programming Languages and also Languages themself, trading, WEB3, cryptos, etc..
 *   ⚡  I'm in your walls...don't mind 😜
 
