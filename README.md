@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giocoliere
 ==================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.link;gioco.is-a.dev;gioco.obl.ong;gioco.us.kg;cc.obl.ong+(creepercraft.eu.org))](https://giocoliere.link)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.xyz;giocoliere.link;gioco.is-a.dev;gioco.obl.ong;gioco.us.kg;cc.obl.ong+(creepercraft.eu.org))](https://giocoliere.link)
 
 Web Developer, Designer, Animator and Ceo of the Creepercraft, LLC project
 --------------------------------------------------------------------------
