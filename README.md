@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giocoliere
 ==================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.xyz;giocoliere.link;gioco.is-a.dev;gioco.obl.ong;gioco.lol;cc.obl.ong+(creepercraft.xyz))](https://giocoliere.link)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.xyz;giocoliere.link;gioco.lol;gioco.is-a.dev;gioco.obl.ong;creepercraft.store)](https://giocoliere.link)
 
-Web Developer, Designer, Animator and Ceo of the Creepercraft project
+Web Developer, Designer, Animator and Founder/CEO of the Creepercraft project
 --------------------------------------------------------------------------
 
 Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privacy), I'm a 18 years old guy with coding and anime passion...i'm studying code by myself for fun and cuz i enjoy it....4 years ago i started a project called Creepercraft Inc. and im still working on it all by myself
