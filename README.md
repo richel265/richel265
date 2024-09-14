@@ -14,7 +14,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 *   ⚡  I'm in your walls...don't mind 😜
 
 <a href="https://www.github.com/giocoliere" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/giocoliere?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/jeki62_" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/giocoliere?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/giocolieredev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/giocolieredev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/g1ocoliere" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/giocolieredev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
