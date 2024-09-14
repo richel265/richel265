@@ -9,7 +9,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 *   🌍  I'm based in Europe, exactly in Italy
 *   🖥️  See my portfolio at [My website.link](https://giocoliere.link) or [Bento](http://bento.me/gioco), hey ptss 🤫 u can check out also [Guns](http://guns.lol/gioco) portfolio
 *   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
-*   🚀  I'm currently working on [Creepercraft](http://creepercraft.xyz), [CreeperLAB](http://creepercraft.store) and all these subprojects
+*   🚀  I'm currently working on [Creepercraft](http://creepercraft.xyz), [CreeperLAB](http://creeperlab.xyz) and all these subprojects
 *   🧠  I'm learning all i can: Programming Languages and also Languages themself, trading, WEB3, cryptos, etc..
 *   ⚡  I'm in your walls...don't mind 😜
 
@@ -83,7 +83,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.facebook.com/g1ocoliere" target="_blank" rel="noreferrer">
+                      <a href="https://www.facebook.com/imgioco" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
@@ -104,7 +104,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="http://www.instagram.com/g1ocoliere" target="_blank" rel="noreferrer">
+                      <a href="http://www.instagram.com/imgioco" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
@@ -146,7 +146,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.x.com/jeki62_" target="_blank" rel="noreferrer">
+                      <a href="https://www.x.com/giocolieredev" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
@@ -160,14 +160,14 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.threads.net/@g1ocoliere" target="_blank" rel="noreferrer">
+                      <a href="https://www.threads.net/@imgioco" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.twitch.tv/g1ocoliere" target="_blank" rel="noreferrer">
+                      <a href="https://www.twitch.tv/giocolieredev" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
