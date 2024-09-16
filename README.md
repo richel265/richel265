@@ -11,7 +11,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 *   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
 *   🚀  I'm currently working on [Creepercraft](http://creepercraft.xyz), [CreeperLAB](http://creeperlab.xyz) and all these subprojects
 *   🧠  I'm learning everything i can: Programming Languages and also Languages themself, trading, WEB3, cryptos, etc..
-*   ⚡  I'm in your walls...don't mind 😜
+*   ⚡  I'm Italian 🤌 Mamma mia!!
 
 <a href="https://www.github.com/giocoliere" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/giocoliere?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/giocolieredev" target="_blank" rel="noreferrer"><img
