@@ -10,7 +10,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 *   🖥️  See my portfolio at [My website.link](https://giocoliere.link) or [Bento](http://bento.me/gioco), hey ptss 🤫 u can check out also [Guns](http://guns.lol/gioco) portfolio
 *   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
 *   🚀  I'm currently working on [Creepercraft](http://creepercraft.xyz), [CreeperLAB](http://creeperlab.xyz) and all these subprojects
-*   🧠  I'm learning all i can: Programming Languages and also Languages themself, trading, WEB3, cryptos, etc..
+*   🧠  I'm learning everything i can: Programming Languages and also Languages themself, trading, WEB3, cryptos, etc..
 *   ⚡  I'm in your walls...don't mind 😜
 
 <a href="https://www.github.com/giocoliere" target="_blank" rel="noreferrer"><img
