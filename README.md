@@ -2,6 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.xyz;giocoliere.link;gioco.lol;giocoliere.ovh;gioco.is-a.dev;support@creepercraft.store;creeperhub.net)](https://giocoliere.link)
 
+[![Snake](https://profile-readme-generator.com/assets/snake.svg)](https://gioco.lol)
+
 Web Developer, Designer, Animator and Founder/CEO of the Creepercraft project
 --------------------------------------------------------------------------
 
