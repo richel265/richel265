@@ -1,6 +1,6 @@
-Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://cc.obl.ong)My name is Giocoliere
+Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://cc.obl.ong)My name is [𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮](https://otakuforge.lol)
 ==================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.xyz;giocoliere.link;gioco.lol;giocoliere.ovh;gioco.is-a.dev;support@creepercraft.store;creeperhub.net)](https://giocoliere.link)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.xyz;giocoliere.link;gioco.lol;giocoliere.ovh;gioco.is-a.dev;otakuforge.lol;creeperhub.net)](https://giocoliere.link)
 
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)](https://gioco.lol)
 
@@ -11,7 +11,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 *   🌍  I'm based in Europe
 *   🖥️  See my portfolio at [My website.link](https://giocoliere.link) or [Bento](http://bento.me/gioco), hey ptss 🤫 u can check out also [Guns](http://guns.lol/gioco) portfolio
 *   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
-*   🚀  I'm currently working on [Creepercraft](http://creepercraft.xyz), [CreeperLAB](http://creeperlab.xyz) and all these subprojects
+*   🚀  I'm currently working on [Otakuforge](https://github.com/otakuforge), [Creepercraft](http://creepercraft.xyz), [CreeperLAB](http://creeperlab.xyz) and all the [CreeperHUB](https://creeperhub.net) projects
 *   🧠  I'm learning everything i can: Programming Languages and also Languages themself, WEB3, Minecraft, Animating etc..
 *   ⚡  I'm Italian 🤌 Mamma mia!!       [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)
   
