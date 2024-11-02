@@ -7,7 +7,7 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 Web Developer, Designer, Animator and Founder/CEO of the CreeperHUB projects
 --------------------------------------------------------------------------
 
-Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privacy), I'm a 18 years old guy with coding and anime passion...i'm studying code by myself for fun and cuz i enjoy it....4 years ago i started a project called Creepercraft Inc. and im still working on it all by myself
+Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privacy), I'm a 18 years old guy with coding and anime passion...I'm studying code by myself for fun and cuz i enjoy it....When i was 12 i started my actual first project that i called Creepercraft and im still working on it all by myself even today (+ other projects, always alone)
 *   🌍  I'm based in Europe
 *   🖥️  See my portfolio at [My website.link](https://giocoliere.link) or [Bento](http://bento.me/gioco), hey ptss 🤫 u can check out also [Guns](http://guns.lol/gioco) portfolio
 *   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
