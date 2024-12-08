@@ -1,8 +1,8 @@
-Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://cc.obl.ong)My name is [𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮🌸](https://creeperhub.net/otakuforge)
+Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net)My name is [𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮🌸](https://bento.me/gioco)
 ==================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.xyz;giocoliere.link;gioco.lol;giocoliere.ovh;gioco.is-a.dev;links.giocoliere.xyz;otakuforge.lol;creeperhub.net)](https://giocoliere.link)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;giocoliere.xyz;giocoliere.link;gioco.lol;giocoliere.ovh;gioco.is-a.dev;links.gioco.gioco.lol;creeperhub.net)](https://giocoliere.link)
 
-[![Snake](https://profile-readme-generator.com/assets/snake.svg)](https://gioco.lol)
+[![Snake](https://profile-readme-generator.com/assets/snake.svg)](https://giocoliere.dev)
 
 Web Developer, Designer, Animator and Founder/CEO of the CreeperHUB projects
 --------------------------------------------------------------------------
@@ -11,14 +11,14 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 *   🌍  I'm based in Europe
 *   🖥️  See my portfolio at [My website.link](https://giocoliere.link) or [Bento](http://bento.me/gioco), hey ptss 🤫 u can check out also [Guns](http://guns.lol/gioco) portfolio
 *   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
-*   🚀  I'm currently working on [Otakuforge](https://github.com/otakuforge), [Creepercraft](http://creepercraft.xyz), [CreeperLAB](http://creeperlab.xyz) and all the [CreeperHUB](https://creeperhub.net) projects
+*   🚀  I'm currently working on [Otakuforge](https://github.com/otakuforge), [Creepercraft](http://creepercraft.net), [CreeperLAB](http://creeperlab.org) and all the [CreeperHUB](https://creeperhub.net) projects
 *   🧠  I'm learning everything i can: Programming Languages and also Languages themself, WEB3, Minecraft, Animating etc..
 *   ⚡  I'm Italian 🤌 Mamma mia!!       [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)
   
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://dsc.gg/creepercraftoff)
 [![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev)
 [![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere)   
-[![Discord lil](https://discord-readme-badge.vercel.app/api?id=842087107908206654)](https://creepercraft.xyz/beta/discordprofile)
+[![Discord lil](https://discord-readme-badge.vercel.app/api?id=842087107908206654)](https://creepercraft.net/beta/discordprofile)
 
  ### Skills 
 <p align="left">
