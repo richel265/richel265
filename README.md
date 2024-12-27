@@ -1,4 +1,4 @@
-Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net)My name is [𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮🌸](https://bento.me/gioco)
+Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net)My name is [**𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮🌸**](https://bento.me/gioco)
 ==================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;giocoliere.xyz;giocoliere.link;gioco.lol;giocoliere.ovh;gioco.is-a.dev;creepers.sbs;creeperhub.net)](https://giocoliere.link)
 
@@ -9,9 +9,9 @@ Web Developer, Designer, Animator and Founder/CEO of the CreeperHUB projects
 
 Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privacy), I'm a 18 years old guy with coding and anime passion...I'm studying code by myself for fun and cuz i enjoy it....When i was 12 i started my actual first project that i called Creepercraft and im still working on it all by myself even today (+ other projects, always alone)
 *   🌍  I'm based in Europe
-*   🖥️  See my portfolio at [My website.link](https://giocoliere.link) or [Bento](http://bento.me/gioco), hey ptss 🤫 u can check out also [Guns](http://guns.lol/gioco) portfolio
-*   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
-*   🚀  I'm currently working on [Otakuforge](https://github.com/otakuforge), [Creepercraft](http://creepercraft.net), [CreeperLAB](http://creeperlab.org) and all the [CreeperHUB](https://creeperhub.net) projects
+*   🖥️  See my portfolio at [**`My website.link`**](https://giocoliere.link) or [**`Bento`**](http://bento.me/gioco), hey ptss 🤫 u can check out also [**`Guns`**](http://guns.lol/gioco) portfolio
+*   ✉️  You can contact me at [`giocoliere@proton.me`](mailto:giocoliere@proton.me) or [`gioco@waifu.club`](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
+*   🚀  I'm currently working on all the [**`CreeperHUB`**](https://creeperhub.net) projects: [**`Otakuforge`**](https://github.com/otakuforge), [**`Creepercraft`**](http://creepercraft.net), [**`CreeperLAB`**](http://creeperlab.org) and others
 *   ⚡  [**`creepers.sbs`**](http://creepers.sbs)  /// [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)     
   
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://dsc.gg/creepercraftoff)
@@ -176,10 +176,33 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
                     </a>
                   <br><br> 
                   
-  ### Support (Work IN Progress)
-                
- <ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/giocoliere"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/gioco"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
-</li>
+  ### Support Me 
+  <a href="https://www.ko-fi.com/gioco" target="_blank" rel="noreferrer">
+                    <picture>
+                    <img src="https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                    <a href="https://patreon.com/giocoliere" target="_blank" rel="noreferrer">
+                    <picture>
+                    <img src="https://github.githubassets.com/assets/patreon-96b15b9db4b9.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                    <a href="https://liberapay.com/giocoliere" target="_blank" rel="noreferrer">
+                    <picture>
+                    <img src="https://github.githubassets.com/assets/liberapay-48108ded7267.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                    <a href="https://buymeacoffee.com/creepercraft" target="_blank" rel="noreferrer">
+                    <picture>
+                    <img src="https://github.githubassets.com/assets/buy_me_a_coffee-63ed78263f6e.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                    <a href="https://paypal.me/imgioco" target="_blank" rel="noreferrer">
+                    <picture>
+                    <img src="https://www.svgrepo.com/show/328109/paypal.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+  
 
 </ul>
 
