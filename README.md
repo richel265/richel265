@@ -31,9 +31,9 @@ Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself f
  ### :octocat: Stats 
 
 <a href="https://www.github.com/giocoliere">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giocoliere&hide=issues&show_icons=true&theme=transparent" />
+<img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=giocoliere&hide=issues&show_icons=true&theme=transparent" />
 <a href="https://www.github.com.com/giocoliere">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoliere&layout=compact&theme=transparent" />
+<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoliere&layout=compact&theme=transparent" />
 
        
  <details>
