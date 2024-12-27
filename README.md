@@ -1,44 +1,50 @@
 Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net)My name is [**𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮🌸**](https://bento.me/gioco)
 ==================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;giocoliere.xyz;giocoliere.link;gioco.lol;giocoliere.ovh;gioco.is-a.dev;creepers.sbs;creeperhub.net)](https://giocoliere.link)
 
+[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;giocoliere.xyz;giocoliere.link;gioco.lol;giocoliere.ovh;gioco.is-a.dev;creepers.sbs;creeperhub.net)](https://giocoliere.link)
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)](https://giocoliere.dev)
 
-Web Developer, Designer, Animator and Founder/CEO of the CreeperHUB projects
---------------------------------------------------------------------------
+# A human..i guess
+<br>
+Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself for fun and because i enjoy it. When i was 12 i started my actual first project that i called Creepercraft and im still working on it all by myself even today (+ other projects, always alone)
+<br>
 
-Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privacy), I'm a 18 years old guy with coding and anime passion...I'm studying code by myself for fun and cuz i enjoy it....When i was 12 i started my actual first project that i called Creepercraft and im still working on it all by myself even today (+ other projects, always alone)
+--------------------------------------------------------------------------
+<br>
+
 *   🌍  I'm based in Europe
-*   🖥️  See my portfolio at [**`My website.link`**](https://giocoliere.link) or [**`Bento`**](http://bento.me/gioco), hey ptss 🤫 u can check out also [**`Guns`**](http://guns.lol/gioco) portfolio
-*   ✉️  You can contact me at [`giocoliere@proton.me`](mailto:giocoliere@proton.me) or [`gioco@waifu.club`](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
-*   🚀  I'm currently working on all the [**`CreeperHUB`**](https://creeperhub.net) projects: [**`Otakuforge`**](https://github.com/otakuforge), [**`Creepercraft`**](http://creepercraft.net), [**`CreeperLAB`**](http://creeperlab.org) and others
+*   🖥️  [**`Portfolio`**](https://giocoliere.link), [**`Bento`**](http://bento.me/gioco), [**`Website`**](http://giocoliere.dev)
+*   ✉️  [`giocoliere@proton.me`](mailto:giocoliere@proton.me), [`gioco@waifu.club`](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
+*   🚀  [**`CreeperHUB`**](https://creeperhub.net) projects: [**`Otakuforge`**](https://github.com/otakuforge), [**`Creepercraft`**](http://creepercraft.net), [**`CreeperLAB`**](http://creeperlab.org) and others
 *   ⚡  [**`creepers.sbs`**](http://creepers.sbs)  /// [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)     
   
-[![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://dsc.gg/creepercraftoff)
-[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev)
-[![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere)   
-[![Discord lil](https://discord-readme-badge.vercel.app/api?id=842087107908206654)](https://creepercraft.net/beta/discordprofile)
+[![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://gioco.lol/discord) <br>
+[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev) <br>
+[![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere) <br>
+[![Discord PR](https://discord-profile-starcea.paring.moe/discord/842087107908206654)](https://gioco.lol/discord)
+[![Spotify PR](https://discord-profile-starcea.paring.moe/spotify/842087107908206654)](https://www.last.fm/it/user/giocoliere_)
 
  ### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
  
-<details>
-<summary>:eyes: Stats (click me)</summary> 
+ <details>
+<summary>:octocat: Stats </summary> 
 
-[![Gioco's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=giocoliere&rank_icon=github&theme=dracula#gh-dark-mode-only)](https://github.com/giocoliere)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=giocoliere&layout=compact&theme=dracula#gh-dark-mode-only)](https://github.com/giocoliere)
-[![Fav-Dark](https://github-readme-stats.vercel.app/api/pin/?username=giocoliere&repo=giocoliere.github.io&theme=dracula#gh-dark-mode-only)](https://github.com/giocoliere/giocoliere.github.io)
-[![Fav2-Dark](https://github-readme-stats.vercel.app/api/pin/?username=giocoliere&repo=giocoliere&theme=dracula#gh-dark-mode-only)](https://github.com/giocoliere/giocoliere)
+<a href="https://www.github.com/giocoliere">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giocoliere&hide=issues&show_icons=true&theme=transparent" />
+<a href="https://www.github.com.com/giocoliere">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoliere&layout=compact&theme=transparent" />
+
 </details>       
  <details>
-<summary>:headphones: Activities (click me)</summary>
+<summary>:headphones:/🎮 Activities (click me)</summary>
    
-  [![Discord Presence](https://lanyard.cnrad.dev/api/842087107908206654?theme=dark&bg=000000&animated=true&idleMessage=I'm%20coding%20or%20gaming...%20%20Check%20my%20website%20out:%20giocoliere.link)](https://discord.com/users/842087107908206654)
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=c7c7c7&bar_color_cover=false)](https://open.spotify.com/user/w46jsh6qyeoex1a0o2n9we57f)
+[![Discord Presence](https://lanyard.cnrad.dev/api/842087107908206654?theme=dark&idleMessage=Mhh...am%20I%20asleep%3F&borderRadius=23px&showDisplayName=true)](https://discord.com/users/842087107908206654)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=c7c7c7&bar_color_cover=false)](https://open.spotify.com/user/w46jsh6qyeoex1a0o2n9we57f)
 </details> 
    
- ### Socials               
+ ### 🌐 Socials               
  <p>
                 <p align="left">
                       <a href="https://www.behance.com/giocoliere" target="_blank" rel="noreferrer">
@@ -176,7 +182,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
                     </a>
                   <br><br> 
                   
-  ### Support Me 
+  ### 💰 Support Me 
   <a href="https://www.ko-fi.com/gioco" target="_blank" rel="noreferrer">
                     <picture>
                     <img src="https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg" width="32" height="32" />
@@ -204,7 +210,15 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
                     </a>
   
 
-</ul>
+</ul><br>
 
+### :octopus: Octo-Ring
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/giocoliere/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/giocoliere/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/giocoliere/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+<img width="64" height="65" src="https://octo-ring.com/static/img/octo.png" align="right" alt="">
+
+I'm a member of [Octo-Ring](https://octo-ring.com/) - a webring for github user profiles. Because why not? 
+
+* [previous profile](https://octo-ring.com/p/giocoliere/prev)
+* [random profile](https://octo-ring.com/p/giocoliere/random)
+* [next profile](https://octo-ring.com/p/giocoliere/next)
+
