@@ -12,7 +12,7 @@ Hi, i'm Giocoliere (ofc this isn't my IRL name...i keep it private for my privac
 *   🖥️  See my portfolio at [My website.link](https://giocoliere.link) or [Bento](http://bento.me/gioco), hey ptss 🤫 u can check out also [Guns](http://guns.lol/gioco) portfolio
 *   ✉️  You can contact me at [giocoliere@proton.me](mailto:giocoliere@proton.me) or [gioco@waifu.club](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
 *   🚀  I'm currently working on [Otakuforge](https://github.com/otakuforge), [Creepercraft](http://creepercraft.net), [CreeperLAB](http://creeperlab.org) and all the [CreeperHUB](https://creeperhub.net) projects
-*   ⚡  [creepers.sbs](http://creepers.sbs)  /// [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)     
+*   ⚡  [**`creepers.sbs`**](http://creepers.sbs)  /// [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)     
   
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://dsc.gg/creepercraftoff)
 [![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev)
