@@ -18,9 +18,14 @@ Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself f
 *   🚀  [**`CreeperHUB`**](https://creeperhub.net) projects: [**`Otakuforge`**](https://creeperhub.net/otakuforge), [**`Creepercraft`**](http://creepercraft.net), [**`CreeperLAB`**](http://creeperlab.org) and others
 *   ⚡  [**`creepers.sbs`**](http://creepers.sbs)  /// [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)     
   
-[![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://gioco.lol/discord) <br>
-[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev) <br>
-[![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere) <br>
+[![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://gioco.lol/discord) 
+[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev) <br>
+[![mastodon-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/mastodon-singular_vector.svg)](https://mas.to/@gioco) 
+[![guilded-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/guilded-singular_vector.svg)](https://guilded.gg/u/gioco) <br>
+[![revolt-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/revolt-singular_vector.svg)](@giocoliere#4812)
+[![markdown](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/markdown_vector.svg)](https://www.markdownguide.org/) <br>
+[![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere) 
+[![gitlab-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/gitlab-singular_vector.svg)](https://gitlab.com/giocoliere) <br>
 [![Discord PR](https://discord-profile-starcea.paring.moe/discord/842087107908206654)](https://gioco.lol/discord)
 [![Spotify PR](https://discord-profile-starcea.paring.moe/spotify/842087107908206654)](https://www.last.fm/it/user/giocoliere_)
 
