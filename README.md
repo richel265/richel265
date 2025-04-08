@@ -26,8 +26,8 @@ Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself f
 [![markdown](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/markdown_vector.svg)](https://www.markdownguide.org/) <br>
 [![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere) 
 [![gitlab-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/gitlab-singular_vector.svg)](https://gitlab.com/giocoliere) <br>
-[![Discord PR](https://discord-profile-starcea.paring.moe/discord/842087107908206654)](https://gioco.lol/discord)
-[![Spotify PR](https://discord-profile-starcea.paring.moe/spotify/842087107908206654)](https://www.last.fm/it/user/giocoliere_)
+[![Discord PR](https://discord-readme-card.ezzud.fr/?userid=842087107908206654&bgcolor=1a1b27)](https://gioco.lol/discord)
+[![Spotify PR](https://spotify-recently-played-readme.vercel.app/api?user=w46jsh6qyeoex1a0o2n9we57f&count=1)](https://www.last.fm/it/user/giocoliere_)
 
  ### Skills 
 <p align="left">
