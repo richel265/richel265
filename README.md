@@ -46,6 +46,8 @@ Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself f
    
 [![Discord Presence](https://lanyard.cnrad.dev/api/842087107908206654?theme=dark&idleMessage=Mhh...am%20I%20asleep%3F&borderRadius=23px&showDisplayName=true)](https://discord.com/users/842087107908206654)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=c7c7c7&bar_color_cover=false)](https://open.spotify.com/user/w46jsh6qyeoex1a0o2n9we57f) <br>
+
+---------------------------------------------------------------------------------------
 [![Discord PR](https://discord-profile-starcea.paring.moe/discord/842087107908206654)](https://gioco.lol/discord)
 [![Spotify PR](https://discord-profile-starcea.paring.moe/spotify/842087107908206654)](https://www.last.fm/it/user/giocoliere_)
 </details> 
