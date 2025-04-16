@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on **nothing yet**
 - 🤔 I’m looking for help with **nothing yet**
 - 💬 Ask me about **nothing yet**
-- 📫 How to reach me: **aredsterk@duck.com**
+- 📫 How to reach me: **richel265@tuta.io**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **yes**
