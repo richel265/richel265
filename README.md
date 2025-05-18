@@ -1,10 +1,14 @@
 Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net)My name is [**𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮**](https://bento.me/gioco)
 ==================================================================================================================================
 
-[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;giocoliere.xyz;giocoliere.link;gioco.lol;giocoliere.ovh;gioco.is-a.dev;creepers.sbs;creeperhub.net)](https://giocoliere.link)
-[![Snake](https://profile-readme-generator.com/assets/snake.svg)](https://giocoliere.dev)
+[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;giocoliere.xyz;giocoliere.link;gioco.lol;gioco.is-a.dev;creepers.sbs;creeperhub.net)](https://giocoliere.dev)
+<picture>  
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giocoliere/giocoliere/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giocoliere/giocoliere/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giocoliere/giocoliere/output/snake-dark.svg">
+</picture>  
 
-# A human..i guess
+# A human..I guess
 <br>
 Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself for fun and because i enjoy it. When i was 12 i started my actual first project that i called Creepercraft and im still working on it all by myself even today (+ other projects, always alone)
 <br>
