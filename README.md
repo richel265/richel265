@@ -1,12 +1,15 @@
-Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net)My name is [**𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮**](https://bento.me/gioco)
+Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net) My name is [**𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮**](https://bento.me/gioco)
 ==================================================================================================================================
 
-[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;giocoliere.xyz;giocoliere.link;gioco.lol;gioco.is-a.dev;creepers.sbs;creeperhub.net)](https://giocoliere.dev)
+[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;gioco.lol;gioco.is-a.dev;creepers.sbs;creeperhub.net)](https://giocoliere.dev)
+
+<a href="https://giocoliere.dev" target="_blank" rel="noreferrer">
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giocoliere/giocoliere/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giocoliere/giocoliere/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giocoliere/giocoliere/output/snake-dark.svg">
-</picture>  
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giocoliere/giocoliere/output/snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giocoliere/giocoliere/output/snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giocoliere/giocoliere/output/snake-dark.svg">
+</picture> 
+</a> 
 
 # A human..I guess
 <br>
@@ -17,12 +20,12 @@ Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself f
 <br>
 
 *   🌍  I'm based in Europe
-*   🖥️  [**`Portfolio`**](https://giocoliere.link), [**`Bento`**](http://bento.me/gioco), [**`Website`**](http://giocoliere.dev)
+*   🖥️  [**`Website`**](http://giocoliere.dev), [**`Bento`**](http://bento.me/gioco), [**`Status`**](http://status.gioco.lol)
 *   ✉️  [`giocoliere@proton.me`](mailto:giocoliere@proton.me), [`gioco@waifu.club`](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
 *   🚀  [**`CreeperHUB`**](https://creeperhub.net) projects: [**`Otakuforge`**](https://creeperhub.net/otakuforge), [**`Creepercraft`**](http://creepercraft.net), [**`CreeperLAB`**](http://creeperlab.org) and others
 *   ⚡  [**`creepers.sbs`**](http://creepers.sbs)  /// [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)     
   
-[![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://gioco.lol/discord) 
+[![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://giocoliere.dev/discord) 
 [![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev) <br>
 [![mastodon-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/mastodon-singular_vector.svg)](https://mas.to/@gioco) 
 [![guilded-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/guilded-singular_vector.svg)](https://guilded.gg/u/gioco) <br>
@@ -227,7 +230,7 @@ Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself f
 
 ### :octopus: Octo-Ring
 
-<img width="64" height="65" src="https://octo-ring.com/static/img/octo.png" align="right" alt="">
+<a href="https://octo-ring.com" target="_blank" rel="noreferrer"> <img width="64" height="65" src="https://octo-ring.com/static/img/octo.png" align="right" alt=""> </a>
 
 I'm a member of [Octo-Ring](https://octo-ring.com/) - a webring for github user profiles. Because why not? 
 
