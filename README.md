@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on **My website**
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **trying to host a Nextcloud**
+- 🌱 I’m currently learning **python or some shi**
 - 👯 I’m looking to collaborate on **nothing yet**
-- 🤔 I’m looking for help with **the TMDB API**
+- 🤔 I’m looking for help with **self-hosting and docker**
 - 💬 Ask me about **nothing yet**
-- 📫 How to reach me: **richel265@tuta.io**
+- 📫 How to reach me: **rnssaketo@proton.me**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **wow**
