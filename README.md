@@ -29,7 +29,7 @@ Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself f
 [![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev) <br>
 [![mastodon-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/mastodon-singular_vector.svg)](https://mas.to/@gioco) 
 [![guilded-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/guilded-singular_vector.svg)](https://guilded.gg/u/gioco) <br>
-[![revolt-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/revolt-singular_vector.svg)](@giocoliere#4812)
+[![revolt-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/revolt-singular_vector.svg)](https://app.revolt.chat/@giocoliere#4812)
 [![markdown](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/markdown_vector.svg)](https://www.markdownguide.org/) <br>
 [![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere) 
 [![gitlab-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/gitlab-singular_vector.svg)](https://gitlab.com/giocoliere) <br>
