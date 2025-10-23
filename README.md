@@ -44,7 +44,7 @@ I'm js a student that LOVES coding and linux
  <details>
 <summary>:headphones:/🎮 Activities (old)</summary>
    
-[![Discord Presence](https://lanyard.cnrad.dev/api/842087107908206654?theme=dark&idleMessage=Mhh...am%20I%20asleep%3F&borderRadius=23px&showDisplayName=true)](https://discord.com/users/803002209934508082
+[![Discord Presence](https://lanyard.cnrad.dev/api/803002209934508082?theme=dark&idleMessage=hi%20tuff%20people%3F&borderRadius=23px&showDisplayName=true)](https://discord.com/users/803002209934508082)
 
 
 
@@ -100,7 +100,5 @@ I'm js a student that LOVES coding and linux
                     </picture>
                     </a>
                   <br><br> 
-
-### Huggies :3
-[![Hug](https://huggle.jdf2.org/sig/giocoliere.png)](http://huggle.jdf2.org/hug/giocoliere)
+            </p></p>
 
