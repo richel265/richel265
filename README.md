@@ -10,6 +10,7 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/richel265/richel265/output/snake-dark.svg">
 </picture> 
 </a> 
+
 [![Discord PR!](https://discord-readme-card.ezzud.fr/?userid=803002209934508082&bgcolor=1a1b27)](https://discord.com/users/803002209934508082)
 
 ## The tuffest person on earth
@@ -39,7 +40,7 @@ I'm js a student that LOVES coding and linux
 
 <a href="https://www.github.com/richel265">
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=richel265&hide=issues&show_icons=true&theme=transparent" />
-<a href="https://www.github.com.com/richel265">
+<a href="https://www.github.com/richel265">
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richel265&layout=compact&theme=transparent" />
     </details>   
 
