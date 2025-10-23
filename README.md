@@ -27,7 +27,7 @@ I'm js a student that LOVES coding and linux
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.com/users/803002209934508082) 
 <br>
 [![markdown](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/markdown_vector.svg)](https://www.markdownguide.org/) <br> 
-[![Join UTG Comp!](https://discord-readme-card.ezzud.fr/?userid=842087107908206654&bgcolor=1a1b27)](https://discord.gg/utgcomp)
+[![Discord PR!](https://discord-readme-card.ezzud.fr/?userid=803002209934508082&bgcolor=1a1b27)](https://discord.com/803002209934508082)
 
  ### Skills 
 <p align="left">
