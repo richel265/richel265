@@ -11,9 +11,9 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 </picture> 
 </a> 
 
-# A human..I guess
+## A human..I guess
 <br>
-Hi, i'm Effective
+Hi, i'm Effective,
 I'm js a student that LOVES coding and linux
 <br>
 
@@ -41,12 +41,4 @@ I'm js a student that LOVES coding and linux
 <a href="https://www.github.com.com/richel265">
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richel265&layout=compact&theme=transparent" />
     </details>   
- <details>
-<summary>:headphones:/🎮 Activities (old)</summary>
-   
-[![Discord Presence](https://lanyard.cnrad.dev/api/803002209934508082?theme=dark&idleMessage=hi%20tuff%20people%3F&borderRadius=23px&showDisplayName=true)](https://discord.com/users/803002209934508082)
-
-
-
-</details> 
 
