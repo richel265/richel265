@@ -1,7 +1,7 @@
 Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net) My name is [**Effective**](https://bento.me/sxlphuric)
 ==================================================================================================================================
 
-[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=im%20tuff;wow;effective;sxlphuric)](https://effective.carrd.co)
+[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=im%20sooo%20tuff;wow;im%20effective;sxlphuric%20is%20a%20%cool%20name)](https://effective.carrd.co)
 
 <a href="https://effectivement.carrd.co" target="_blank" rel="noreferrer">
 <picture>  
@@ -10,8 +10,9 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/richel265/richel265/output/snake-dark.svg">
 </picture> 
 </a> 
+[![Discord PR!](https://discord-readme-card.ezzud.fr/?userid=803002209934508082&bgcolor=1a1b27)](https://discord.com/users/803002209934508082)
 
-## A human..I guess
+## The tuffest person on earth
 <br>
 Hi, i'm Effective,
 I'm js a student that LOVES coding and linux
@@ -27,7 +28,7 @@ I'm js a student that LOVES coding and linux
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.com/users/803002209934508082) 
 <br>
 [![markdown](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/markdown_vector.svg)](https://www.markdownguide.org/) <br> 
-[![Discord PR!](https://discord-readme-card.ezzud.fr/?userid=803002209934508082&bgcolor=1a1b27)](https://discord.com/803002209934508082)
+
 
  ### Skills 
 <p align="left">
