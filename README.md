@@ -11,7 +11,8 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 </picture> 
 </a> 
 
-[![Discord PR!](https://discord-readme-card.ezzud.fr/?userid=803002209934508082&bgcolor=1a1b27)](https://discord.com/users/803002209934508082)
+[![Discord PR!](https://lanyard.cnrad.dev/api/803002209934508082?hideStatus=true&idleMessage=%20&showDisplayName=true&hideActivity=false)](https://discord.com/users/803002209934508082)
+
 
 ## bro bro niri is cool trust you should use niri fr
 <br>
