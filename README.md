@@ -11,7 +11,7 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 </picture> 
 </a> 
 
-[![Discord PR!](https://lanyard.cnrad.dev/api/803002209934508082?hideStatus=true&idleMessage=%20&showDisplayName=true&hideActivity=false)](https://discord.com/users/803002209934508082)
+[![Discord Presence](https://lanyard.cnrad.dev/api/803002209934508082?hideTimestamp=true&idleMessage=either%20arrpc%20is%20broken%20or%20im%20not%20doing%20anything)](https://discord.com/users/803002209934508082)
 
 
 ## bro bro niri is cool trust you should use niri fr
