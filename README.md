@@ -39,9 +39,9 @@ I'm js a student that LOVES coding and linux
  <details>
 <summary>  :octocat: Stats </summary>
 
-<a href="https://www.github.com/richel265">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sxlphuricc&hide=issues&show_icons=true&theme=transparent" />
-<a href="https://www.github.com/richel265">
+<a href="https://www.github.com/sxlphuric">
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sxlphuric&hide=issues&show_icons=true&theme=transparent" />
+<a href="https://www.github.com/sxlphuric">
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlphuric&layout=compact&theme=transparent" />
     </details>   
 
