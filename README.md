@@ -1,7 +1,7 @@
 Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net) My name is [**Effective**](https://bento.me/sxlphuric)
 ==================================================================================================================================
 
-[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=wow%20this%20is%20;wow;im%20effective;sxlphuric%20is%20a%20%cool%20name%20you%20gotta%20admit)](https://sxl.phuri.cc)
+[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=wow%20this%20is%20;wow;im%20effective;sxlphuric%20is%20cooool)](https://sxl.phuri.cc)
 
 <a href="https://sxl.phuri.cc" target="_blank" rel="noreferrer">
 <picture>  
