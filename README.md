@@ -1,19 +1,19 @@
 Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net) My name is [**Effective**](https://bento.me/sxlphuric)
 ==================================================================================================================================
 
-[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=im%20sooo%20tuff;wow;im%20effective;sxlphuric%20is%20a%20%cool%20name)](https://sxl.phuri.cc)
+[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=wow%20this%20is%20;wow;im%20effective;sxlphuric%20is%20a%20%cool%20name%20you%20gotta%20admit)](https://sxl.phuri.cc)
 
-<a href="https:/sxl.phuri.cc" target="_blank" rel="noreferrer">
+<a href="https://sxl.phuri.cc" target="_blank" rel="noreferrer">
 <picture>  
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richel265/richel265/output/snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richel265/richel265/output/snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/richel265/richel265/output/snake-dark.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxlphuric/sxlphuric/output/snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxlphuric/sxlphuric/output/snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sxlphuric/sxlphuric/output/snake-dark.svg">
 </picture> 
 </a> 
 
 [![Discord PR!](https://discord-readme-card.ezzud.fr/?userid=803002209934508082&bgcolor=1a1b27)](https://discord.com/users/803002209934508082)
 
-## The tuffest person on earth
+## bro bro niri is cool trust you should use niri fr
 <br>
 Hi, i'm Effective,
 I'm js a student that LOVES coding and linux
@@ -39,8 +39,8 @@ I'm js a student that LOVES coding and linux
 <summary>  :octocat: Stats </summary>
 
 <a href="https://www.github.com/richel265">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=richel265&hide=issues&show_icons=true&theme=transparent" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sxlphuricc&hide=issues&show_icons=true&theme=transparent" />
 <a href="https://www.github.com/richel265">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richel265&layout=compact&theme=transparent" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlphuric&layout=compact&theme=transparent" />
     </details>   
 
